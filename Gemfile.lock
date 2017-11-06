@@ -11,7 +11,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  xkcd (~> 1.0.0)
+  xkcd (~> 1.0.1)
 
 BUNDLED WITH
    1.15.4
