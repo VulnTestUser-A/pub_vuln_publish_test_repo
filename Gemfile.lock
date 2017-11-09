@@ -9,6 +9,7 @@ GEM
       sexp_processor (~> 4.6)
     ruby_parser (3.10.1)
       sexp_processor (~> 4.9)
+    rubyzip (1.0.0)
     safemode (1.2.5)
       ruby2ruby (>= 2.0.6)
       ruby_parser (>= 3.2.0)
@@ -21,6 +22,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rubyzip (~> 1.0.0)
   safemode (~> 1.2.0)
   xkcd (~> 1.0.0)
 
