@@ -22,8 +22,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rubyzip (~> 1.0.0)
-  safemode (~> 1.2.0)
+  rubyzip
+  safemode
   xkcd (~> 1.0.0)
 
 BUNDLED WITH
