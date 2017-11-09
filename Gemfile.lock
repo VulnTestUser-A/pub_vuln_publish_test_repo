@@ -22,7 +22,7 @@ PLATFORMS
 
 DEPENDENCIES
   safemode (~> 1.2.0)
-  xkcd (~> 1.0.1)
+  xkcd (~> 1.0.0)
 
 BUNDLED WITH
    1.15.4
